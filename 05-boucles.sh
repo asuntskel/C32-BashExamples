@@ -20,7 +20,7 @@ done
 
 
 # Si on fait une autre lettre que le o, on quitte la bouche
-
+# le resultat o n'est pas écrit avec des  car il nest pas nécessaire...
 resultat=o
 while [[ $resultat = o ]]
 do
