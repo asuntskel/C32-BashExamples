@@ -28,6 +28,10 @@ case $lettre in
 	[[:lower:]])
 		echo "La lettre est minuscule"
 		;;
+
+	"A")
+		echo "La lettre 'a' majuscule"
+		;;
 	*)
 		echo "Autre"
 		;;
